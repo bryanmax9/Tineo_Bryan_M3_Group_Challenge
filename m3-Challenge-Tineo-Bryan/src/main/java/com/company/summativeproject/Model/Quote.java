@@ -38,3 +38,4 @@ public class Quote {
         this.quote = quote;
     }
 }
+

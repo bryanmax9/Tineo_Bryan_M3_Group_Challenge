@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SummativeProjectApplication {
+public class SummativeprojectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SummativeProjectApplication.class, args);
+		SpringApplication.run(SummativeprojectApplication.class, args);
 	}
 
 }
